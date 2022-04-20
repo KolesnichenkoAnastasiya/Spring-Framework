@@ -1,0 +1,12 @@
+ru\geekbrains\persist\Cart\Cart.class
+ru\geekbrains\persist\Cart\CartRepository.class
+ru\geekbrains\persist\Filter\EncodingFilter.class
+ru\geekbrains\persist\Product\ProductPage\Product_3.class
+ru\geekbrains\persist\Product\ProductPage\Product_2.class
+ru\geekbrains\persist\Product\ProductServlet.class
+ru\geekbrains\persist\Config\SpringConfig.class
+ru\geekbrains\persist\Product\ProductRepository.class
+ru\geekbrains\persist\Product\ProductPage\Product_1.class
+ru\geekbrains\persist\Product\ProductPage\Product_4.class
+ru\geekbrains\persist\Product\Product.class
+ru\geekbrains\persist\Product\ProductPage\Product_5.class
